@@ -1,0 +1,2 @@
+#!/bin/bash
+echo {a..x}{a..z} | grep -v e
